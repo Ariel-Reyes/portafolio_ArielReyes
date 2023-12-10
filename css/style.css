@@ -1,0 +1,198 @@
+:root {
+--color-fondo: #202023;
+--color-letra: #fff; 
+
+}
+
+.img-normalizada{
+	width:280px;
+	height:230px;
+	object-fit:cover;
+    border-radius: 12px;
+	}
+
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+body{
+	background-color: var(--color-fondo);
+	color: var(--color-letra);
+	font-family: 'M PLUS Rounded 1c';
+}
+
+
+.cuadro-gris p{
+	color: #fff;
+	margin-top: 15px;
+}
+.cuadro-gris{
+ background-color: #7b7b7f;
+ text-align: center;
+ padding: 10px;
+ border-radius: 15px; 
+ margin-bottom: 30px;
+} 
+
+#aboutme h1{
+text-align: center;
+font-size: 30px;
+}
+
+.navbar{
+	font-family: 'M PLUS Rounded 1c';
+	padding: 30px;
+	text-align: center;
+	
+	
+}
+
+.navbar a{
+ color: var(--color-letra);
+ margin-left: 10px;
+ text-align: center;
+}
+
+#aboutme{
+text-align: center;
+}
+
+
+#aboutme img{
+ margin-bottom: 50px;
+
+}
+
+.sombra{
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0.5, 0.25);
+}
+
+
+#gusto-disgusto h2{
+padding: 50px;
+font-size: 30px;
+}
+
+#servicios {
+	text-align: center;
+	padding: 70px;
+
+}
+
+#gusto-disgusto h3{
+	margin-bottom: 20px; 
+}
+
+#portafolio h2{
+	text-align: center;
+	padding: 30px;
+	margin-bottom: 30px;
+}
+
+
+.entrada-datos input{
+
+	background-color: #D9D9D9;
+	width: 700px;
+	height: 50px;
+	margin: 0px auto;
+	
+	}
+	
+	.entrada-datos textarea{
+		width: 700px;
+		background-color: #D9D9D9;
+	
+	}
+	
+	.entrada-datos h4{
+		font-family: 'M PLUS Rounded 1c';
+		padding-top: 10%;
+		padding-bottom: 10%;
+	}
+	
+#contacto h2{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 25px;
+
+}
+
+.img-portafolio:hover {
+	opacity: 0.6;
+	transition: all  0.2s ease-in-out;
+}
+
+
+#portafolio h4{
+text-align: left;
+}
+
+#gusto-disgusto p{
+	font-size: 20px; 
+}
+
+#gusto-disgusto .la-angry {
+	color: #A85354;
+}
+
+#gusto-disgusto .la-smile-wink {
+	color: #42B323;
+}
+
+.icono-servicio{
+	padding-top: 50px;
+	font-size: 100px;
+	text-align: center
+}
+
+#contacto h2{
+	padding: 20px; 
+}
+
+#contacto{
+	text-align: center;
+}
+
+
+.icono-contacto {
+	text-align: right;
+font-size: 65px;
+}
+
+.icono-contacto:hover{
+	color: #CFCE49; 
+}
+
+footer{
+	padding: 100px;
+	text-align: center;
+	font-size: 14px;
+	color: #686465; 
+}
+
+ul{
+	text-align: center;
+}
+
+.btn-primary{
+	background-color: #323164; 
+	border-color: #323164; 
+}
+
+#portafolio h4 {
+	text-align: center;
+}
+
+#portafolio{
+	text-align: center; 
+}
+
+
+
+
+
+
+
